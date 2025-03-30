@@ -18,4 +18,4 @@ Agregar tres filtros adicionales:
 
 ## Demo De como debería quedar
 
-!(Demo)
+![Demo](./img/demo.gif)
