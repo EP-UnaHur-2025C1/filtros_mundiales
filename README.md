@@ -1,6 +1,6 @@
 # Filtros Mundiales
 
-El siguiente es un código JavaScript simple que está embebido en el archivo index.html y que, además, incluye otro archivo llamado paises.js, el cual contiene una única clase que consume una[api externa](https://restcountries.com/v3.1/all) y gestiona los filtros enviados desde el HTML.
+El siguiente es un código JavaScript simple que está embebido en el archivo index.html y que, además, incluye otro archivo llamado paises.js, el cual contiene una única clase que consume una [api externa](https://restcountries.com/v3.1/all) y gestiona los filtros enviados desde el HTML.
 
 ## Objetivo
 
